@@ -58,7 +58,7 @@ export default function Home() {
     <main className="min-h-screen bg-gray-100 flex items-center justify-center p-6 relative text-black">
       {showOverlay && (
         <div className="absolute inset-0 bg-black bg-opacity-50 backdrop-blur-md flex flex-col items-center justify-center z-50 text-white text-center">
-          <p className="text-3xl font-bold mb-2">Sami Gandu</p>
+          <p className="text-3xl font-bold mb-2">Zainab pr Chai giri</p>
           <p className="text-sm">Made by Abdullah</p>
         </div>
       )}
