@@ -46,7 +46,7 @@ export default function Home() {
 
     if (justMarkedDone) {
       setShowOverlay(true);
-      setTimeout(() => setShowOverlay(false), 1000);
+      setTimeout(() => setShowOverlay(false), 10000);
     }
   };
 
