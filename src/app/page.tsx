@@ -1,8 +1,6 @@
 'use client';
-
 import { useState } from "react";
 import { CheckCircle, Trash2, PlusCircle } from "lucide-react";
-
 type Todo = {
   id: number;
   text: string;
